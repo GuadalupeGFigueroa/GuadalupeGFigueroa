@@ -1,25 +1,32 @@
 ﻿# GuadalupeGFigueroa
-<h1><strong>Hi! I'm Lupe </strong></h1>
-<figure>
-  <a href="https://pixabay.com/es/gifs/gato-gatito-gato-negro-felino-13812/"> </a>
-  <img src="https://pixabay.com/es/gifs/gato-gatito-gato-negro-felino-13812/" alt="A cute black cat.">
-</figure>
+<h1><strong>Hi! I'm Lupe </strong></h1> <br>
+
+![](https://animaniacos.com/images/gifs/animales/gatos/gato0003.gif) <br>
+
+
+  
 
 <h2><strong><em> About me </em></strong></h2>
   <p>
     :woman_technologist:  I'm currently  trained by Factoría F5 Bootcamp backend developer. <br>
+    👩‍🏫 Degree in pedagogy. <br>
+    📚 Spanish language teacher. <br>
+    
 
 <h2><strong><em>Languages</em></strong></h2>
   <p> 
-    :check_mark_button: :flag_spain:  Native level of Spanish <br>
-    :check_mark_button: :flag_france: Advanced level of French  <br>
-    :check_mark_button: Intermediate level of English  <br>
-    :check_mark_button: :flag_finland: I know enough words to survive in Finland without starving :grinning_face_with_sweat: <br>
+    :star: <strong> Spanish</strong> Native level <br>
+    :star: <Strong>French </Strong>Advanced level <br>
+    :star: <Strong>English</Strong> Intermediate level <br>
+    :star: <Strong>Finnish</Strong>I know enough words to survive in Finland without starving :sweat_smile: <br>
  </p> <br>  
   
   
 <h2><strong><em> Skills </em></strong></h2>
-<p> :speaking_head: Communication skills</p>  <br>
+<p> :speaking_head: Communication  <br>
+  🎨 creativity <br>
+  :baby_chick: teamwork
+</p>
 
   
 </p>
