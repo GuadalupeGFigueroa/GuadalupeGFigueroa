@@ -2,7 +2,7 @@
 <h1><strong>Hi! I'm Lupe </strong></h1>
 <figure>
   <a href="https://pixabay.com/es/gifs/gato-gatito-gato-negro-felino-13812/"> </a>
-  <img src="https://pixabay.com/es/gifs/gato-gatito-gato-negro-felino-13812/" alt="A cute blacke cat.">
+  <img src="https://pixabay.com/es/gifs/gato-gatito-gato-negro-felino-13812/" alt="A cute black cat.">
 </figure>
 
 <h2><strong><em> About me </em></strong></h2>
