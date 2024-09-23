@@ -9,7 +9,7 @@
   <p>
     :woman_technologist:  I'm currently  trained by Factoría F5 Bootcamp backend developer. <br>
 
-<h2><strong><em>Idiomas</em></strong></h2>
+<h2><strong><em>Languages</em></strong></h2>
   <p> 
     :check_mark_button: :flag_spain:  Native level of Spanish <br>
     :check_mark_button: :flag_france: Advanced level of French  <br>
