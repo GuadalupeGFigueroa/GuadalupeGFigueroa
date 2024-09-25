@@ -8,7 +8,7 @@
 
 <h2><strong><em> About me </em></strong></h2>
   <p>
-    :woman_technologist:  I'm currently  trained by Factoría F5 Bootcamp backend developer. <br>
+    :woman_technologist:  I'm currently  training by Factoría F5 Bootcamp backend developer. <br>
     👩‍🏫 Degree in pedagogy. <br>
     📚 Spanish language teacher. <br>
     
@@ -18,7 +18,7 @@
     :star: <strong> Spanish</strong> Native level <br>
     :star: <Strong>French </Strong>Advanced level <br>
     :star: <Strong>English</Strong> Intermediate level <br>
-    :star: <Strong>Finnish</Strong>I know enough words to survive in Finland without starving :sweat_smile: <br>
+    :star: <Strong>Finnish</Strong>I know enough words to survive in Finland :sweat_smile: <br>
  </p> <br>  
   
   
