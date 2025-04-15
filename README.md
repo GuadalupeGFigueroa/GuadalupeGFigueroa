@@ -1,34 +1,56 @@
 ﻿# GuadalupeGFigueroa
-<h1><strong>Hi! I'm Lupe </strong></h1> <br>
+<h1 align="center"><strong>Hi there, I'm Lupe 👋</strong></h1>
 
-![](https://animaniacos.com/images/gifs/animales/gatos/gato0003.gif) <br>
-
-
-  
-
-<h2><strong><em> About me </em></strong></h2>
-  <p>
-    :woman_technologist:  I'm currently  training by Factoría F5 Bootcamp backend developer. <br>
-    👩‍🏫 Degree in pedagogy. <br>
-    📚 Spanish language teacher. <br>
-    
-
-<h2><strong><em>Languages</em></strong></h2>
-  <p> 
-    :star: <strong> Spanish</strong> Native level <br>
-    :star: <Strong>French </Strong>Advanced level <br>
-    :star: <Strong>English</Strong> Intermediate level <br>
-    :star: <Strong>Finnish</Strong>I know enough words to survive in Finland :sweat_smile: <br>
- </p> <br>  
-  
-  
-<h2><strong><em> Skills </em></strong></h2>
-<p> :speaking_head: Communication  <br>
-  🎨 creativity <br>
-  :baby_chick: teamwork
+<p align="center">
+  <img src="https://animaniacos.com/images/gifs/animales/gatos/gato0003.gif" width="200"/>
 </p>
 
-  
-</p>
-<h2><strong><em> Connet with me </em></strong></h2>
-<a href=www.linkedin.com/in/guadagfigueroa alt= "LinkedIn"> </a>
+---
+
+## 👩‍💻 About Me
+
+- 🎯 **Backend Developer in training**  
+- 🏫 Currently completing a **Bootcamp at Factoría F5** (550h)  
+  <br>Tech stack: Java, Spring Boot, Maven, Postman, VS Code  
+- 📚 Studying a **Vocational Training Degree (FP) in Web Development**  
+- 💼 Enrolled in a **Professional Certificate (720h)** in  
+  *Object-Oriented Programming, Databases and IT Systems* at INADECO  
+  <br>Tech stack: C#, .NET, SQL Server  
+- 👩‍🏫 **Background in education**: Degree in Pedagogy, former Spanish language teacher  
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 **Spanish**: Native  
+- 🇫🇷 **French**: Advanced  (C1)
+- 🇬🇧 **English**: Intermediate  (B2)
+- 🇫🇮 **Finnish**: I know just enough to survive in Finland 😅  
+
+---
+
+## 🛠️ Tech Skills
+
+- Java · Spring Boot · Maven  
+- C# · .NET · SQL Server  
+- Git & GitHub · Postman · Visual Studio Code  
+- SQL · Object-Oriented Programming  
+
+---
+
+## ✨ Soft Skills
+
+- 🗣️ Communication  
+- 🎨 Creativity  
+- 🤝 Teamwork  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guadagfigueroa)
+
+---
+
+> Walking step by step to improve day by day 🚀  
+
