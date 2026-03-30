@@ -1,56 +1,112 @@
 ﻿# GuadalupeGFigueroa
-<h1 align="center"><strong>Hi there, I'm Lupe 👋</strong></h1>
+<h1 align="center"><strong>Guadalupe García Figueroa</strong></h1>
 
 <p align="center">
-  <img src="https://animaniacos.com/images/gifs/animales/gatos/gato0003.gif" width="200"/>
+  Fullstack Developer (Java / Spring Boot)
 </p>
 
----
+<hr/>
 
-## 👩‍💻 About Me
+<h2>About Me</h2>
 
-- 🎯 **Backend Developer in training**  
-- 🏫 Currently completing a **Bootcamp at Factoría F5** (550h)  
-  <br>Tech stack: Java, Spring Boot, Maven, Postman, VS Code  
-- 📚 Studying a **Vocational Training Degree (FP) in Web Development**  
-- 💼 Enrolled in a **Professional Certificate (720h)** in  
-  *Object-Oriented Programming, Databases and IT Systems* at INADECO  
-  <br>Tech stack: C#, .NET, SQL Server  
-- 👩‍🏫 **Background in education**: Degree in Pedagogy, former Spanish language teacher  
+<p>
+I am a junior fullstack developer with a background in education, currently completing my Higher Vocational Training in Web Application Development.
+</p>
 
----
+<p>
+I have trained in backend and web development through an intensive bootcamp focused on Java and Spring Boot, where I built applications using REST APIs, relational databases and Agile methodologies.
+</p>
 
-## 🌍 Languages
+<p>
+In parallel, I completed a professional certification in Object-Oriented Programming and Databases, working with C#, .NET and SQL Server.
+</p>
 
-- 🇪🇸 **Spanish**: Native  
-- 🇫🇷 **French**: Advanced  (C1)
-- 🇬🇧 **English**: Intermediate  (B2)
-- 🇫🇮 **Finnish**: I know just enough to survive in Finland 😅  
+<p>
+Before transitioning into tech, I worked in education and international environments, taking on responsibilities in coordination, communication and problem-solving. This experience allows me to bring a structured and people-oriented approach to software development.
+</p>
 
----
+<p>
+I am currently looking for my first opportunity as a developer, where I can continue learning and contributing within a development team.
+</p>
 
-## 🛠️ Tech Skills
+<hr/>
 
-- Java · Spring Boot · Maven  
-- C# · .NET · SQL Server  
-- Git & GitHub · Postman · Visual Studio Code  
-- SQL · Object-Oriented Programming  
+<h2>Technical Skills</h2>
 
----
+<h3>Java Backend Stack</h3>
+<ul>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>REST APIs</li>
+  <li>Maven</li>
+</ul>
 
-## ✨ Soft Skills
+<h3>.NET Stack</h3>
+<ul>
+  <li>C#</li>
+  <li>.NET</li>
+  <li>SQL Server</li>
+</ul>
 
-- 🗣️ Communication  
-- 🎨 Creativity  
-- 🤝 Teamwork  
+<h3>Frontend & Web</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
----
+<h3>Databases</h3>
+<ul>
+  <li>MySQL</li>
+  <li>SQL Server</li>
+</ul>
 
-## 📫 Connect with Me
+<h3>Tools & Workflow</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Postman</li>
+  <li>Visual Studio Code</li>
+</ul>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guadagfigueroa)
+<h3>Other Technologies</h3>
+<ul>
+  <li>Python</li>
+  <li>N8N</li>
+  <li>Make</li>
+</ul>
 
----
+<hr/>
 
-> Walking step by step to improve day by day 🚀  
+<h2>Experience & Training</h2>
 
+<ul>
+  <li>Higher Vocational Training in Web Application Development (in progress)</li>
+  <li>Backend Developer Bootcamp (Java, Spring Boot, 550h)</li>
+  <li>Professional Certificate in Object-Oriented Programming and Databases (720h)</li>
+  <li>Background in education (Pedagogy degree and teaching experience)</li>
+</ul>
+
+<hr/>
+
+<h2>Languages</h2>
+
+<ul>
+  <li>Spanish — Native</li>
+  <li>French — Advanced (C1)</li>
+  <li>English — Upper-Intermediate (B2)</li>
+  <li>Finnish — Basic (A1)</li>
+</ul>
+
+<hr/>
+
+<h2>Connect</h2>
+
+<p>
+LinkedIn: <a href="https://www.linkedin.com/in/guadagfigueroa">guadagfigueroa</a>
+</p>
+
+<hr/>
+
+<p align="center">
+Building solid foundations in fullstack development, step by step.
+</p>
