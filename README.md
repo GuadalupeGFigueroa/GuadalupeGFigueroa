@@ -2,7 +2,7 @@
 <h1 align="center"><strong>Guadalupe García Figueroa</strong></h1>
 
 <p align="center">
-  Fullstack Developer (Java / Spring Boot)
+  Fullstack Developer
 </p>
 
 <hr/>
