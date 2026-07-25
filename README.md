@@ -74,14 +74,14 @@ Busco una oportunidad para integrarme en un equipo técnico donde pueda aportar 
 ## 🎓 Formación y Certificaciones Oficiales
 
 * **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — Ilerna *(2026)*
-* **Certificado Profesional en Programación OO y Bases de Datos Relacionales (720h)** — Inadeco *(C#, .NET, SQL Server)*
-* **Bootcamp Backend Developer con Java (550h)** — Factoría F5 *(Java, Spring Boot, Maven, Agile/Jira)*
-* **Certificaciones IT Specialist (Certiport, 2025):**
+* **Certificado Profesional en Programación OO y Bases de Datos Relacionales, C#, .NET, SQL Server (720h)** — Inadeco *(2025)*
+* **Bootcamp Backend Developer, Java, Spring Boot, Maven, Agile/Jira (550h)** — Factoría F5 *(2024)*
+* **Certificaciones IT Specialist** — Certiport *(2025)* **:**
   * *Software Development*
   * *Databases*
   * *Device Configuration and Management*
 * **Google Project Management Certificate** — Coursera *(2025)*
-* **Licenciatura en Pedagogía** — Universidad de Oviedo
+* **Licenciatura en Pedagogía** — Universidad de Oviedo *(2012)*
 
 ---
 
@@ -89,7 +89,7 @@ Busco una oportunidad para integrarme en un equipo técnico donde pueda aportar 
 
 * **Español:** Nativo
 * **Francés:** Avanzado (C1) — *Experiencia laboral en el sistema educativo nacional francés*
-* **Inglés:** Intermedio-Alto (B2) — *Documentación técnica en entorno Service Desk internacional*
+* **Inglés:** Intermedio-Alto (B2) — *Un año de experiencia trabajando en Finlandia*
 
 ---
 
