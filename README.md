@@ -20,7 +20,7 @@
 
 Soy una desarrolladora Full Stack junior enfocada en la construcción de lógica de negocio sólida, integración de APIs REST y automatización de flujos de trabajo. He consolidado mi formación técnica a través del **CFGS en Desarrollo de Aplicaciones Web (DAW)**, un **Bootcamp intensivo de Backend con Java/Spring Boot (550h)** y un **Certificado Profesional en C#/.NET y Bases de Datos (720h)**.
 
-Mi trayectoria previa en el sector educativo, coordinación de proyectos e incidencias IT (*Service Desk*) me aporta una ventaja transversal valorada en equipos de desarrollo: **comunicación clara en entornos multilingües (español, francés, inglés), resolución estructurada de problemas y experiencia real trabajando bajo metodologías ágiles**.
+Mi trayectoria previa en el sector educativo, coordinación de proyectos e incidencias IT (*Service Desk*) me aporta una ventaja transversal valorada en equipos de desarrollo: **comunicación clara en entornos multilingües (español, francés e inglés), resolución estructurada de problemas y experiencia real trabajando bajo metodologías ágiles**.
 
 Busco una oportunidad para integrarme en un equipo técnico donde pueda aportar mis capacidades de desarrollo en backend/full stack y seguir creciendo profesionalmente.
 
